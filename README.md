@@ -10,5 +10,6 @@ The model is roughly **831 million** parameters, and is trained at 256x256.
 
 ![Sample Generation](sample-image.png)
 
-If you'd like to continue training the model or test the model, the latest train is on hugginface.
+If you'd like to continue training the model or test the model, the latest train is on huggingface.
+
 [Huggingface](https://huggingface.co/FusionCow/SimpleDiffusion/tree/main)
