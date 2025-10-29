@@ -1,2 +1,11 @@
-# SimpleDiffusion
-A simple diffusion model trained on ~500k image text pairs.
+# SimpleDiffusion: A Simple Diffusion Model
+
+SimpleDiffusion is a basic diffusion model trained on approximately **150,000 image-text pairs**.
+
+This model was trained on about 30 epochs over a two month period. I don't have access to amazing gpus as I'm just one person, but the model shows promise if trained further.
+
+The model is roughly **831 million** parameters, and is trained at 256x256.
+
+## Sample Generation
+
+![Sample Generation](sample-image.png)
