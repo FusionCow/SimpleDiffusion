@@ -8,7 +8,7 @@ The model is roughly **831 million** parameters, and is trained at 256x256.
 
 ## Sample Generation
 
-![Sample Generation](sample-image.png)
+![Sample Generation](generated_image_batch.png)
 
 If you'd like to continue training the model or test the model, the latest train is on huggingface.
 
